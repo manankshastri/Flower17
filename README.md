@@ -1,4 +1,4 @@
-# Flower Classification using <b>VGG16</b>
+# Flower Classification using VGG16
 
 <div>
   <p>Number of classes: 17 </p>
